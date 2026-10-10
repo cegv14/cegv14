@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Cristian Garcia
 
-<!--
-**cegv14/cegv14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer | Systems Engineer | Venezuela
 
-Here are some ideas to get you started:
+I'm a Systems Engineer with 10+ years of programming experience. I build and maintain web applications end to end, from the database to the user interface, for companies in Venezuela, Chile and Panama.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+**Languages:** JavaScript, Node.js, PHP, Python, C#, Visual Basic
+
+**Frontend:** Vue 3, React, HTML, CSS
+
+**Backend:** Node.js, Express, REST APIs, WebSocket, Socket.IO
+
+**Databases:** PostgreSQL, MySQL, SQL Server, NoSQL
+
+**Infrastructure:** VPS, AWS
+
+## What I can do for you
+
+Custom web apps and admin dashboards, REST APIs and real-time features, database design and optimization, bug fixing and new features on existing systems, and deployment on VPS and AWS.
+
+## Public projects
+
+**binance-pay-fpagos-nodejs-adapter:** simplified Binance Pay integration in Node.js and Express using the FPagos API.
+
+**template_vue:** Vue 3 and Express starter template.
+
+**validxml:** XML validation tool in JavaScript.
+
+Most of my client work lives in private repositories.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/cristian-e-garcia
+
+Open to remote full-time roles and freelance projects.
